@@ -12,7 +12,7 @@
 // 
 //
 
-package com.shuzijun.leetcode.editor.en;
+package main.java.com.qiangrongjia.leetcode.editor.en;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -17,7 +17,7 @@
 //Output: 49 
 //
 
-package com.shuzijun.leetcode.editor.en;
+package main.java.com.qiangrongjia.leetcode.editor.en;
 
 public class ContainerWithMostWater {
     public static void main(String[] args) {

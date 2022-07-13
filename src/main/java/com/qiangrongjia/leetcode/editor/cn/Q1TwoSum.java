@@ -1,4 +1,4 @@
-package com.shuzijun.leetcode.editor.cn;
+package main.java.com.qiangrongjia.leetcode.editor.cn;
 
 import java.util.Arrays;
 import java.util.HashMap;

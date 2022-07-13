@@ -1,4 +1,4 @@
-package com.shuzijun.leetcode;
+package main.java.com.qiangrongjia.leetcode;
 
 /**
  * Created with IntelliJ IDEA.

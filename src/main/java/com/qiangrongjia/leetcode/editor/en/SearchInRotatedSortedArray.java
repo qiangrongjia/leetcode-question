@@ -22,7 +22,7 @@
 //Output: -1 
 //
 
-package com.shuzijun.leetcode.editor.en;
+package main.java.com.qiangrongjia.leetcode.editor.en;
 
 public class SearchInRotatedSortedArray {
     public static void main(String[] args) {
